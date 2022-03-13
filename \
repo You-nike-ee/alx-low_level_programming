@@ -1,0 +1,18 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /alx-low_level_programming/0x01-variables_if_else_while
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../                                            0 Sun 13 Mar 2022 07:10:29 AM PDT
+./                                             0 Sun 13 Mar 2022 01:56:11 PM PDT
+.3-print_alphabets.c.swp                   12288 Sun 13 Mar 2022 08:01:47 AM PDT
+0-positive_or_negative.c*                    316 Sun 13 Mar 2022 07:50:55 AM PDT
+1-last_digit.c                               472 Sun 13 Mar 2022 07:34:28 AM PDT
+2-print_alphabet.c*                          172 Sun 13 Mar 2022 01:48:36 PM PDT
+3-print_alphabets.c*                         172 Sun 13 Mar 2022 07:57:55 AM PDT
+4-print_alphabt.c                              0 Sun 13 Mar 2022 01:54:32 PM PDT
+5-print_numbers.c                              0 Sun 13 Mar 2022 01:55:03 PM PDT
+6-print_numberz.c                              0 Sun 13 Mar 2022 01:55:35 PM PDT
+README.md                                    227 Sun 13 Mar 2022 01:49:52 PM PDT
